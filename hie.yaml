@@ -1,0 +1,4 @@
+cradle:
+  cabal:
+    - path: "./haskell"
+      component: "exe:haskell-backend"
